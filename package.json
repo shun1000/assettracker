@@ -1,0 +1,22 @@
+{
+  "name": "assettracker",
+  "version": "1.0.0",
+  "description": "A asset tracker made by Shun Wakita",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shun1000/assettracker.git"
+  },
+  "author": "Shun Wakita",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shun1000/assettracker/issues"
+  },
+  "homepage": "https://github.com/shun1000/assettracker#readme",
+  "dependencies": {
+    "scandit-sdk": "^1.4.6"
+  }
+}
