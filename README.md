@@ -13,9 +13,47 @@ What are some possible applications for this app?
 
 ----------------------------------------------------------
 
+Structure
+
+1.) Log In - Low Priority
+
+2.) Fields 
+
+Item Name 
+
+Class
+
+BarcodeID
+
+quaggajs 
+
+UniqueID 
+
+3.) UPC Checker 
+
+
+
+
+SQL Notes: 
+Good Reference Material: 
+
+https://data36.com/sql-best-practices-data-analysts/
+
+
+
+
+
+
+
+
+
 How would a person utilize the app. 
 
 1.) The Person Would log into the system with either a user log in and password or OAuth such as google
+
+
+
+
 
 2.) The person would be able to create a new Inventory list depending on the location. 
 
@@ -43,6 +81,9 @@ Solution: This has been highlighted under Node Packages Installed.
 
 7.) Have folder structure that meets MVC Paradigm;
 
+http://www.inovum-solutions.com/wp/news/682/
+
+
 8.) Meet good quality coding standards (indentation, scoping, naming).
 
 9.) Must not expose sensitive API key information on the server
@@ -65,6 +106,11 @@ https://medium.freecodecamp.org/how-to-make-your-html-responsive-by-adding-a-sin
 
 
 The Components:
+
+UPC Checker: 
+
+https://www.youtube.com/watch?v=Cr2C8AlU69o
+
 
 The Barcode Scanner:
 
